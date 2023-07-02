@@ -14,5 +14,4 @@ Web Technologies: HTML, CSS, JavaScript, Node.js, Express.js.
 Database Systems: SQL, MongoDB.
 Cybersecurity: Ethical Hacking, Network Security, Cryptography.
 
-📫 How to reach me:
-Email: alvinongwj@protonmail.com
+📫 How to reach me: alvinongwj@protonmail.com
