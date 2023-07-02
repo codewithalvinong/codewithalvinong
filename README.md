@@ -10,10 +10,14 @@ I'm a passionate programmer and cybersecurity enthusiast with a deep love for br
 
 🛠 Skills & Technologies
 
-Programming Languages: Python, Java, JavaScript.
-Web Technologies: HTML, CSS, JavaScript, Node.js, Express.js.
-Database Systems: SQL, MongoDB.
-Cybersecurity: Ethical Hacking, Network Security, Cryptography.
+Programming Languages: 
+Python, Java, JavaScript.
+Web Technologies: 
+HTML, CSS, JavaScript, Node.js, Express.js.
+Database Systems: 
+SQL, MongoDB.
+Cybersecurity: 
+Ethical Hacking, Network Security, Cryptography.
 
 📫 How to reach me: alvinongwj@protonmail.com
 
