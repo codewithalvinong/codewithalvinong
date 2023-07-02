@@ -9,6 +9,7 @@ I'm a passionate programmer and cybersecurity enthusiast with a deep love for br
 📚 I'm always learning something new, currently diving deep into Blockchain technology.
 
 🛠 Skills & Technologies
+
 Programming Languages: Python, Java, JavaScript.
 Web Technologies: HTML, CSS, JavaScript, Node.js, Express.js.
 Database Systems: SQL, MongoDB.
