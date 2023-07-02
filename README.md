@@ -15,3 +15,7 @@ Database Systems: SQL, MongoDB.
 Cybersecurity: Ethical Hacking, Network Security, Cryptography.
 
 📫 How to reach me: alvinongwj@protonmail.com
+
+Remember: The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.
+
+Please feel free to look around and do not hesitate to get in touch if you want to collaborate on a project or need help with something! 👍
