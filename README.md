@@ -1,23 +1,12 @@
-👋 Hey there! I'm Alvin Ong.
-I'm a passionate programmer and cybersecurity enthusiast with a deep love for breaking codes, solving puzzles, and understanding how systems work from the inside out.
+I'm an ex-blockchain developer turned Web3 product manager with a passion for building decentralized solutions that make a real impact. I combine deep technical expertise with strategic product thinking to drive innovation in the Web3 space. My experience spans smart contract development, blockchain architecture, and product management, allowing me to bridge the gap between technology and user experience.  
 
-🎓 I am currently studying for a Bachelor's degree in Computer Science from University Of Essex and am pursuing more certifications in Cybersecurity field at the same time too. 
-🧑‍💻 My favorite programming languages are Python, Java, and JavaScript.
-💻 I'm fascinated by cybersecurity, with a special interest in network security, ethical hacking, and cryptography.
-🌐 I'm currently focusing on cybersecurity research and open source projects aimed at improving network security measures.
-🔭 Past projects range from web development to Java applications, all of which demonstrate a focus on secure coding practices.
-📚 I'm always learning something new, currently diving deep into Blockchain technology.
-
-🛠 Skills & Technologies
-
-Programming Languages: 
-Python, Java, JavaScript.
-Web Technologies: 
-HTML, CSS, JavaScript, Node.js, Express.js.
-Database Systems: 
-SQL, MongoDB.
-Cybersecurity: 
-Computer Security
+### Skills  
+- **Blockchain Development:** Smart contracts, Solidity, Ethereum, EVM, Layer 2 solutions  
+- **Web3 Technologies:** DeFi, NFTs, DAOs, tokenomics, decentralized identity  
+- **Product Management:** Roadmap planning, user research, agile methodologies, cross-functional collaboration  
+- **Programming Languages:** Solidity, JavaScript, TypeScript, Python  
+- **Tools & Frameworks:** Hardhat, Truffle, Web3.js, Ethers.js, IPFS, The Graph  
+- **Strategic Thinking:** Go-to-market strategies, ecosystem growth, business development in Web3  
 
 📫 How to reach me: alvinongwj@protonmail.com
 
